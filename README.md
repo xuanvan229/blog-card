@@ -1,3 +1,7 @@
+# Great frontend challenge;
+
+[https://www.greatfrontend.com/projects/challenges/blog-card](https://www.greatfrontend.com/projects/challenges/blog-card)
+
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
